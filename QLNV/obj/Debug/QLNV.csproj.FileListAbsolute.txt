@@ -1,0 +1,8 @@
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\bin\Debug\QLNV.exe.config
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\bin\Debug\QLNV.exe
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\bin\Debug\QLNV.pdb
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\obj\Debug\QLNV.csproj.SuggestedBindingRedirects.cache
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\obj\Debug\QLNV.exe
+D:\Nam3_HK2\WinForm\Testing\QLNV\QLNV\obj\Debug\QLNV.pdb
